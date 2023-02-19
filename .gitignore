@@ -1,0 +1,6 @@
+static
+venv
+env
+*.env
+venv/
+*sqlite3*
